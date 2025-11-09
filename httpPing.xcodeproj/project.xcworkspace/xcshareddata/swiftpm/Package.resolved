@@ -1,0 +1,33 @@
+{
+  "originHash" : "1e430cc1d7ed836729c70e92efb29bdf16665075c7300a33581ee06ecf93b021",
+  "pins" : [
+    {
+      "identity" : "reachability",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/disc0infern0/Reachability/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6c90250686e93364c5e35bf25fd324812808d226"
+      }
+    },
+    {
+      "identity" : "sequencestats",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/disc0infern0/SequenceStats",
+      "state" : {
+        "branch" : "main",
+        "revision" : "27f5fa70018041c424d38280372a0b0adbc65050"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "309a47b2b1d9b5e991f36961c983ecec72275be3",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 3
+}
